@@ -1,7 +1,7 @@
 Better Empathy theme
 ====================
 
-A «better» Empathy theme (but it's still not great because it's still Empathy)
+A _better_ Empathy theme (but it's still not great because it's _still Empathy_)
 
 To make it work:
 
